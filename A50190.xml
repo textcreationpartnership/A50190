@@ -1,0 +1,805 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of the state of New England from the beginning of that plantation to this present year, 1689 in a letter to a person of quality.</title>
+            <author>Mather, Increase, 1639-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50190</idno>
+            <idno type="STC">Wing M1189</idno>
+            <idno type="STC">ESTC R3614</idno>
+            <idno type="EEBO-CITATION">13674801</idno>
+            <idno type="OCLC">ocm 13674801</idno>
+            <idno type="VID">101219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 794:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of the state of New England from the beginning of that plantation to this present year, 1689 in a letter to a person of quality.</title>
+                  <author>Mather, Increase, 1639-1723.</author>
+                  <author>Kick, Abraham. To Her Royal Highness the Princess of Orange.</author>
+                  <author>Mather, Increase, 1639-1723. De successu Evangelii apud Indos in Nova-Anglia epistola. English.</author>
+               </titleStmt>
+               <extent>18, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwine ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Increase Mather.  Cf. NUC pre-1956.</note>
+                  <note>What is evidently a first draft of the above, containing about one-half of the text, is among the Hutchinson papers in possession of the Massachusetts Historical Society, and was printed in its collections, 3rd ser., v. 1, p. 93-101; the handwriting is not that of Mather.</note>
+                  <note>The "Brief relation" includes in addition the 12th article of the Declaration of the gentlemen, merchants, and inhabitants of Boston, Apr. 18, 1689 (believed to have been written by Mather); Abraham Kick's letter to the Princess of Orange, Feb. 1, 1689 n.s.; and a translation of Mather's "De successu Evangelij apud Indos in Nova-Anglia epistola. Ad ... Johannem Leusaenum."  It was reprinted in Force's Tracts, v. 4, no. 11, and Andros tracts, v. 2, p. 147-170, the latter containing a discussion of authorship.</note>
+                  <note>Advertisement on p. [1-2]</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>New England --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101219:1"/>
+            <pb facs="tcp:101219:1"/>
+            <p>A BRIEF RELATION OF THE STATE OF New England, From the Beginning
+of that PLANTATION To this Preſent Year, 1689.</p>
+            <p>
+               <hi>In a Letter to a Perſon of Quality.</hi>
+            </p>
+            <p>LICENCED, <hi>July</hi> 30<hi rend="sup">th</hi>. 1689.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwine,</hi> near the
+<hi>Black Bull</hi> in the <hi>Old-Baily,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101219:2"/>
+            <pb n="3" facs="tcp:101219:2"/>
+            <head>A BRIEF RELATION OF THE STATE OF New England.</head>
+            <opener>
+               <salute>HONO<g ref="char:V">Ʋ</g>RED SIR,</salute>
+            </opener>
+            <p>I Have received yours, wherein you deſire me to give you a Brief
+Account of the paſt and preſent State of <hi>New Eng<g ref="char:EOLhyphen"/>land,</hi> which in as
+few words as I can, and as ſtraits of time will permit me, I ſhall
+endeavour your Satisfacti<g ref="char:EOLhyphen"/>on in.</p>
+            <p>
+               <hi>New England</hi> contains that Tract of Land which is between
+forty and forty five Degrees of Northern Latitude; It was for ſome time known
+by the name of the <hi>Northern Plantation;</hi> but King <hi>Charles</hi> the
+Firſt (then Prince of <hi>Wales</hi>) gave it the name of <hi>New
+England.</hi>
+            </p>
+            <p>The firſt ſettlement of the Engliſh there, was in the year
+1620, <hi>viz.</hi> at <hi>New Plymouth.</hi>
+            </p>
+            <p>
+               <hi>New England</hi> differs from other Foreign Plantations, in
+reſpect of the Grounds and Motives, inducing the Firſt Planters to remove
+<pb n="4" facs="tcp:101219:3"/>into that <hi>American</hi> Deſert; other Plantations were
+built upon Worldly Intereſts, <hi>New England</hi> upon that which is purely
+Reli<g ref="char:EOLhyphen"/>gious; for although they did, and do agree (as is evident from their
+Printed Confeſſion of Faith) with all other <hi>Protestant Re<g ref="char:EOLhyphen"/>formed
+Churches;</hi> and more eſpecially with <hi>England,</hi> in Matters of
+Doctrin, and in all Fundamental Points of Faith; yet as to the Liturgy,
+Ceremonies, and Church-Government by Biſhops, they were, and are
+<hi>Non-conformiſts:</hi> It was grievous to them to think of living in
+continual difference with their Proteſtant Brethren in <hi>England;</hi> upon
+which account they reſolved on a peaceable SECESSION into a corner of the
+World; and being deſirous to be under the Protection of <hi>England,</hi>
+about twenty worthy Gentle<g ref="char:EOLhyphen"/>men obtained a Charter from King <hi>Charles</hi>
+the Firſt, bearing date from the year 1628. which giveth them Right to the
+Soil, for they hold their Titles of Lands, as of the Mannor of
+<hi>Eaſt-Greenwich</hi> in <hi>Kent,</hi> and in Common SOCAGE, which,
+notwithſtanding, they purchaſed their Lands of the Indians, who were the
+Native Pro<g ref="char:EOLhyphen"/>prietors: By their mentioned Charter, they are Empower'd to Elect
+yearly their own Governor, and Deputy-Governor, and Magiſtrates, as here in
+<hi>London,</hi> and in other Towns Corpo<g ref="char:EOLhyphen"/>rate, the Freemen chuſe their Lord
+Mayors, Mayors, Aldermen, <hi>&amp;c.</hi>
+            </p>
+            <p>They have alſo Power to make ſuch Laws, as ſhall be moſt
+pro<g ref="char:EOLhyphen"/>per and ſuitable for the Plantation: Nevertheleſs, as an
+acknow<g ref="char:EOLhyphen"/>ledgment of <hi>their dependance on England,</hi> by their Charters,
+they are obliged not to make any Laws, which ſhall be repugnant to the Laws
+in <hi>England.</hi>
+            </p>
+            <p>Alſo, the fifth part of all <hi>Oar,</hi> of Gold or Silver,
+found in that Territory, belongs to the Crown of <hi>England.</hi>
+            </p>
+            <p>The Report of this Charter, did encourage many very de<g ref="char:EOLhyphen"/>ſerving
+perſons to Tranſplant themſelves, and their Families, in<g ref="char:EOLhyphen"/>to <hi>New
+England;</hi> Gentlemen of Ancient and Worſhipful Families, and Miniſters
+of the Goſpel, then of great fame here in <hi>England,</hi> Tradeſmen,
+Artificers, and Planters, to the Number of about four thouſand did in twelve
+years time go thither.</p>
+            <p>The hazards they run, and the difficulties which they en<g ref="char:EOLhyphen"/>countred
+with, in ſubduing a Wilderneſs, cannot be eaſily ex<g ref="char:EOLhyphen"/>preſt in a large
+Tract: But the Almighty God, by a wonder<g ref="char:EOLhyphen"/>ful Providence, carried them through
+all.</p>
+            <p>
+               <pb n="5" facs="tcp:101219:3"/>In the year 1637, they were in imminent danger
+of being cut off by the barbarous Heathen; but when it came to a War, mighty
+numbers of the Indians were ſlain, by a few of the Eng<g ref="char:EOLhyphen"/>liſh, which cauſed
+a terror of God to fall upon the Heathen round about; ſo that after the
+<hi>Pequod</hi> Indians were ſubdued, there was peace in the Land for forty
+eight years together; and being ſetled under a good and eaſie Government,
+the Plantation in<g ref="char:EOLhyphen"/>creaſed, and proſpered wonderfully; yea, ſo as cannot
+be pa<g ref="char:EOLhyphen"/>rallelled in any Hiſtory: never was place brought to ſuch a
+Con<g ref="char:EOLhyphen"/>ſiderableneſs in ſo ſhort a time; that which was, not long ſince,
+a howling Wilderneſs, in few years time, became a pleaſant Land, wherein
+was abundance of all things meet for Soul and Body, which can be imputed to
+nothing elſe, but to their Religion, the Goſpel bringing a fulneſs of
+Bleſſings along with it: Some have obſerved, that ſince the year 1640,
+more Perſons have re<g ref="char:EOLhyphen"/>moved out of <hi>New England,</hi> than have gone
+thither. Never<g ref="char:EOLhyphen"/>theleſs, the four thouſand, who did, between that and the
+year 1620, tranſplant themſelves into <hi>New England,</hi> are ſo
+mar<g ref="char:EOLhyphen"/>velouſly increaſed, as that, if the Computation fail not, they are now
+become more than Two hundred thouſand Souls.</p>
+            <p>There are Towns and Villages, on the Sea-Coaſts, from <hi>Long
+Iſland</hi> to <hi>Boſton,</hi> which is Three hundred Engliſh Miles, and
+the like from <hi>Boſton</hi> to <hi>Pemmaquid,</hi> which is Two hundred
+Miles more.</p>
+            <p>In the year 1662, <hi>Conecticot</hi> Colony, as alſo <hi>Read
+Iſland,</hi> with the Plantations thereunto belonging, had Charters granted
+to them by King <hi>Charles</hi> the Second, being much of the ſame Te<g ref="char:EOLhyphen"/>nor
+with the Patent of the <hi>Maſſachuſets,</hi> whereby theſe Co<g ref="char:EOLhyphen"/>lonies
+were made diſtinct Government.</p>
+            <p>In the year 1675, the Indians began a ſecond War with the
+Engliſh; the Iſſue of which was, that whole Nations of them were
+deſtroy'd.</p>
+            <p>Never did men ſhew greater Courage and Bravery in their
+En<g ref="char:EOLhyphen"/>counters with the Barbarous Heathen, than they did. Although it muſt be
+acknowledged that the <hi>Indians</hi> advantages were ſuch, as they could
+not have been overcome, if God had not fought a<g ref="char:EOLhyphen"/>gainſt them, by ſending the
+Evil Arrows of Famine, and Mortal Diſeaſes among them. I have often thought
+of an Expreſſion of<pb n="6" facs="tcp:101219:4"/>an Indian there: <hi>We could eaſily
+be too hard for the Engliſh, but</hi> (ſaid he? ſtriking on his Breaſt)
+<hi>The Engliſhmens God makes us afraid here.</hi>
+            </p>
+            <p>As long as they enjoyed their firſt Government, no Enemies could
+ſtand before them; but ſince that they have not been able to ſubdue an
+hundred Indians, who did the laſt year commit ſome outrages among them,
+having been (as I am credibly inſormed) de<g ref="char:EOLhyphen"/>ſignedly provoked thereunto by
+ſome Injuries done unto them by thoſe then in Power, who intended the Ruine
+of the Eng<g ref="char:EOLhyphen"/>liſh, and Advancement of the French Intereſt in that
+Terri<g ref="char:EOLhyphen"/>tory.</p>
+            <p>As for your Enquiry, <hi>By what means they came to be deprived of
+their Charters, Rights and Liberties;</hi> pleaſe to underſtand, that in
+the year 1683, a <hi>Quo Warranto</hi> was iſſued out againſt them, and
+with the Notification thereof by the then King's Order there was a Declaration
+publiſhed, enjoyning thoſe few particular Perſons men<g ref="char:EOLhyphen"/>tioned in the
+<hi>Quo Warranto,</hi> to make their defence at their own per<g ref="char:EOLhyphen"/>ticular Charge,
+without any help by a publick Stock: By this it was eaſie to ſee that
+ſome Perſons were reſolv'd to have the Charters condemned, <hi>quo jure
+quaque injuria:</hi> Nevertheleſs, the Governor and Company appointed an
+Attorney to appear, and anſwer to the <hi>Quo Warranto,</hi> in the Court of
+King's Bench.</p>
+            <p>The Proſecutors not being able to make any thing of it there, a
+new Suit was Commenced by a <hi>Scire facias,</hi> in the High Court of
+Chancery.</p>
+            <p>But tho they had not ſufficient time given them to make their
+Defence, yet Judgment was entred againſt them for Default in not appearing;
+when it was impoſſible, conſidering the remote diſtance of <hi>New
+England</hi> from <hi>Westminſter-hall,</hi> that they ſhould appear in the
+time allowed.</p>
+            <p>Thus illegally was the Charter of the <hi>Maſſachuſets</hi>
+Colony wreſted from them: as for the Colonies of <hi>Plymouth,
+Conecticot,</hi> and <hi>Road Iſland,</hi> there was never any Judgment
+againſt them, nor any Surrender; but by a mere Rape, in the year 1686, their
+Charters and Priviledges were violently taken from them.</p>
+            <p>Since that time the Country hath mightily declined, and gone to
+ruin daily, not being now like the place it was Five Years ago, which is not
+much to be wondred at, conſidering the Intol<g ref="char:EOLhyphen"/>lerable<pb n="7" facs="tcp:101219:4"/>Oppreſſions they have been Labouring under, ſince their Charters
+were Raviſhed from them.</p>
+            <p>In the Year 1686. <hi>Sir Edmond Andros,</hi> was ſent by the
+late King <hi>James</hi> to <hi>New England;</hi> with a Commiſſion
+abſolutely de<g ref="char:EOLhyphen"/>ſtructive to the fundamentals of the <hi>Engliſh</hi>
+Government, Impow<g ref="char:EOLhyphen"/>ering him with Four more (none of them choſen by the
+People) to Levy Money, and make Laws, nay, and in caſe of War in the
+Plantations to ſend as many of the Inhabitants as he would, two Thouſand
+Miles out of the Country: This Commiſſion being Illegal and ſo in it
+ſelf void, the People not being able to Conti<g ref="char:EOLhyphen"/>nue longer under thoſe
+Oppreſſions, did this laſt Spring aſſert their Engliſh Liberties,
+Rights and Priviledges, and Unanimouſly Declare for <hi>the Prince of Orange,
+and the Parliament of England.</hi>
+            </p>
+            <p>And it is greatly to be obſerved, that as long as <hi>New
+England</hi> enjoyed their Charters for more than Fifty Years together, they
+never put the Crown of <hi>England</hi> to a Penny Charge; which is more than
+can be ſaid of any other Forreign Plantations depen<g ref="char:EOLhyphen"/>dant on
+<hi>England.</hi>
+            </p>
+            <p>But ſince they have been under a Government not by
+<hi>Charters,</hi> but by <hi>Commiſſion,</hi> the Country hath been
+Chargeable, and leſs Beneficial to the Kings Revenue than in former
+times.</p>
+            <p>It hath indeed been objected, that in <hi>New England</hi> they
+did many Years a go Tranſgreſs <hi>the Act of Navigation.</hi> But the
+Traſgreſſi<g ref="char:EOLhyphen"/>on of ſome few particular Perſons ought not to be charged
+as the fault of the Government there, who did in the Year 1663, make a Law that
+the Act of Navigation ſhould be Strictly obſerved, and their Governours are
+Sworn to ſee that Law Executed, and have to the uttermoſt of their power
+been careful therein.</p>
+            <p>Many other Things have been ſuggeſted againſt <hi>New
+England,</hi> he moſt of which having no footſteps of Truth in them, but
+be<g ref="char:EOLhyphen"/>ing the Malicious Inventions of the <hi>Tobijahs</hi> and
+<hi>Sanballats</hi> of the Age, are not worth mentioning.</p>
+            <p>Not but the People there being but Men, have had their failings as
+well as other Men in all places of the World. The only thing (ſo far as I can
+learn) which can with any Coluor of Truth be juſtly reflected on them as a
+great fault, is that in ſome matters relating to Conſcience and difference
+of opinion, they have been more rigid and ſevere than the Primitive
+Chriſtians or the Goſpel doth allow of.</p>
+            <p>
+               <pb n="8" facs="tcp:101219:5"/>Yet this is to be ſaid in their behalf, that
+things are reported worſe than indeed they were, and that now many Leading
+Men, and the generality of the People are of a more moderate Tem<g ref="char:EOLhyphen"/>per.</p>
+            <p>I know many that have a great Intereſt there, do abhor the
+Spirit of Perſecution as much as any Men in the World.</p>
+            <p>It is certainly for the Intereſt of <hi>England,</hi> that
+<hi>New England</hi> be incouraged; and preſerved in all their Rights,
+Priviledges and Properties, and thoſe ill Men who have given or ſhall give
+contrary advice (notwithſtanding all their vain pretences to the contrary)
+have and will prejudice the Intereſt of the Crown more than they are, or ever
+were, or can be able to make amends for: which I evince by the Arguments
+following.</p>
+            <list>
+               <item>I. The Kings Revenue, all things conſidered, is as much or
+more augmented by <hi>New England,</hi> than by any other of the Foreign
+Plantations. This will ſeem to ſome a ſtrange Aſſertion: But
+con<g ref="char:EOLhyphen"/>ſider what I ſay, and then judge if it be not true.
+<p>The other <hi>American Plantations</hi> cannot well
+ſubſiſt without <hi>New England;</hi> which is by a Thouſand Leagues
+nearer to them than either <hi>England,</hi> or <hi>Ireland;</hi> ſo that
+they are ſupplied with Proviſions, Beef, Pork, Meal, Fiſh, &amp;c. And
+alſo with the Lumber Trade, Deal Boards, Pipe-Staves, &amp;c. chiefly from
+<hi>New England.</hi>
+                  </p>
+                  <p>Alſo the <hi>Carribbe Iſlands</hi> have theire Horſes
+from thence. It is then in a greater part by means of <hi>New England</hi> that
+the other Plantations are made proſperous and beneficial; they pay Cuſtoms
+in the Plantations for the Goods they Export from thence into <hi>New
+England,</hi> and when thoſe Goods are brought into <hi>England,</hi> they
+pay the ſame again the Second time, by which means not a little is
+contributed to the Crown.</p>
+                  <p>Some Manufactures there are amongſt them, but not a
+Twenti<g ref="char:EOLhyphen"/>eth part of what the Country hath need of, or is conſumed there,
+moſt of their Cloathing as to Woollen and Linnen, all ſorts of Upholſtery
+Wares, Haberdaſhers and Silk Wares, Stuffs, Silks, &amp;c. they have from
+<hi>England;</hi> and make returns in Plate, Pieces of Eight, Beaver, Mooſe
+and Deer Skins, Oyl, and Iron, all which, but the Bullion, the Country
+affords.</p>
+                  <p>Alſo by Sugars and Tobacco, Indico, and indeed all the
+Product<pb n="9" facs="tcp:101219:5"/>of the other Plantations, which with their own
+Veſſels they fetch and tranſport to <hi>England.</hi>
+                  </p>
+               </item>
+               <item>II. I know not whether in the World there be a better place
+for ſhipping, nor can I ſay how many, (but many hundreds there are)
+hundreds of Veſſels of their own building do be<g ref="char:EOLhyphen"/>long to the Country,
+(beſides great Numbers built and ſold into <hi>England,</hi>) for they
+yearly build many good Ships, ſome of which for <hi>London,</hi> and other
+places in <hi>England.</hi>
+                  <p>The Country abounds with Pine-Trees, Excellent Cedars, and Oak
+for building of Ships, and Ship-Maſts in abundance; by thoſe that are
+proper Judges, the beſt in the World, and come yearly from thence for the
+Uſe of the King's Ships.</p>
+                  <p>And it hath been affirmed by knowing Men in Navigation and
+Building, that whenever the King of <hi>England</hi> pleaſes, he may in
+<hi>New England</hi> on ſuch eaſie Rates as is ſcarce imaginable, build
+Navies of Ships: There being no better Timber in the World, and in ſuch
+quantities as are inexhauſtible, and in ſuch convenient Places, as if God
+and Nature had adapted theſe vaſt Timbers for the ſaid uſe; which is
+worth conſide<g ref="char:EOLhyphen"/>ration, for that Timber is generally wanting in
+<hi>England,</hi> and in <hi>Ireland;</hi> what is, is too far from Waters and
+Places fit for Carriage, and the Eaſt-Land Oak is ſpungy and
+unfit.</p>
+               </item>
+               <item>III. The Engliſh born in <hi>New England,</hi> have the
+true inhe<g ref="char:EOLhyphen"/>rent Spirit of the <hi>Old,</hi> apt and fit for Martial Employs; and
+as an addition to their Natural Courage and Sobriety, are well inſtructed in
+Martial Diſcipline.</item>
+            </list>
+            <p>All the Inhabitants from ſixteen to ſixty Years in each Town,
+are by the Law and conſtant Cuſtom of the Country to bear Arms, if
+occaſion ſhall require, and that they may be fit ſo to do,</p>
+            <p>They have in each Town and Village their Training-days, eight
+Times every Year, wherein they are exerciſed in Military Diſcipline, that
+ſo they may be expert in War, on all occa<g ref="char:EOLhyphen"/>ſions, for their own Defence, and
+Service of their Prince; who will find whenever he ſhall pleaſe for to
+command, and commiſſionate them, that they are able (by the Bleſſing of
+God) to ſecure and enlarge his Dominions, and to bring<pb n="10" facs="tcp:101219:6"/>their French Neighbours into an intire Subjection to the Crown of
+<hi>England.</hi>
+            </p>
+            <p>And from this Conſideration it was, that the French
+Mi<g ref="char:EOLhyphen"/>niſters, (who all the World knows had a mighty Aſcendent over
+<hi>White-Hall,</hi> in the Two Late Kings Reigns) ceaſed not in their
+Negotiations, until amongſt other Articles agreed on; One was, that in Caſe
+of a War betwixt <hi>England</hi> and <hi>France,</hi> there ſhall be a
+Neutrality in the Plantations: They wiſely foreſeeing, that if the King of
+<hi>England,</hi> ſhould arm and com<g ref="char:EOLhyphen"/>miſſion his Subjects in <hi>New
+England,</hi> the Frenchmen in thoſe parts could not ſtand before them.</p>
+            <p>In the Time of the Late Protector <hi>Cromwel,</hi> they did by
+order from <hi>England,</hi> take ſeveral Forts from the French, which by
+King <hi>Charles</hi> the Second were reſtored to them again; no ways to the
+Honour or Intereſt of the Engliſh Nation.</p>
+            <p>And it's hoped, His Majeſty and the High Court of Parlia<g ref="char:EOLhyphen"/>ment,
+will put that value upon <hi>New England,</hi> as ſo vaſt a Tract of Land
+and Body of People deſerve from a Govern<g ref="char:EOLhyphen"/>ment on which they depend, and are
+ſo great and uſeful a Member, as they have manifeſted themſelves to be:
+And that in ſo Eminent a manner as calls for Protection, Encourage<g ref="char:EOLhyphen"/>ment, and
+Reſtauration to all their Rights, Priviledges and Proprieties, and what
+Additions more, as in His Majeſty great Wiſdom, ſhall be thought fit for
+his Service, the Proteſtant Religion and the good of that People; who on the
+18th. of <hi>April,</hi> 1689. Unanimouſly roſe in Arms, and after having
+ſei<g ref="char:EOLhyphen"/>zed upon their Illegal Governour, and the reſt of their
+Op<g ref="char:EOLhyphen"/>preſſors; declared for the Prince of <hi>Orange,</hi> and the
+Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> the Proteſtant Religion and their Ancient
+Conſtitution, and to this day do keep the Country for our Preſent
+Sovereigns, King <hi>William</hi> and Queen <hi>Mary,</hi> againſt King
+<hi>Lewis,</hi> and the Abdicated King <hi>James,</hi> waiting His Ma<g ref="char:EOLhyphen"/>jeſties
+Commands, <hi>&amp;c.</hi>
+            </p>
+            <p>Which Declaration is in the words following:
+<q>WE do therefore ſeize upon the Perſons of thoſe few
+<hi>Ill Men,</hi> which have (been next unto our<pb n="11" facs="tcp:101219:6"/>ſins) the
+Grand Authors of our Miſeries, reſolving to ſecure them, for what
+Juſtice, Orders from his Highneſs, with the Engliſh Parliament ſhall
+direct, leſt, e're we are aware, we find (what we may fear, being on all
+ſides in danger) our ſelves to be by them given away to a Foreign
+<hi>Power,</hi> before ſuch Orders can reach unto us, for which Orders we now
+humbly wait; in the mean time firmly be<g ref="char:EOLhyphen"/>lieving, that we have endeavoured
+nothing but what meer Duty to God and our Country calls for at our hands: We
+commit our Enterprize to the <hi>Bleſſing</hi> of him, <hi>who hears the
+Cry of the oppreſſed,</hi> and adviſe all our Neigh<g ref="char:EOLhyphen"/>bours for whom we
+have thus ventured our ſelves, to joyn with us in Prayers, and all juſt
+Actions for the Defence of the Land.</q>
+            </p>
+            <p>The twelfth Article of <hi>New England</hi> is the Key of the
+<hi>New World America;</hi> if the French King had got it into his
+Poſſeſſion, he might ſoon have made himſelf Maſter of
+<hi>Ame<g ref="char:EOLhyphen"/>rica,</hi> and this in all Probability would have been done this
+Summer, if the <hi>New Englanders</hi> in and about <hi>Boſton,</hi>
+pene<g ref="char:EOLhyphen"/>trating into the Deſigns carrying on, had not riſen as one Man, and
+ſeized Sir <hi>E. A.</hi> (who is as of a French Extract, ſo in the French
+Intereſts; being ſent to <hi>New England</hi> by the Late King
+<hi>James,</hi> with an Illegal and Arbitrary Commiſſion) and thoſe ill
+Men who joyned with him in his Tyranny.</p>
+            <p>All men do acknowledge, that thoſe brave Souls whom God hath
+ſo wonderfully aſſiſted, and ſpirited to preſerve
+<hi>London-Derry,</hi> (and perhaps thereby to ſave all <hi>Ireland</hi>) by
+ſecuring it, and declaring for King <hi>William</hi> and Queen <hi>Mary,</hi>
+deſerve great Favour and Protection from the Government.</p>
+            <p>And the ſame muſt be acknowledged due unto the People of
+<hi>New England,</hi> and more eſpecially, when it is conſidered of what
+Value and Conſequence to <hi>England, New England</hi> is, and that they ſo
+early as it were, reſcued the Country out of the hands of the French, even
+before they knew the Prince of <hi>Orange</hi> was King of <hi>England,</hi>
+and that at a Time when they<pb n="12" facs="tcp:101219:7"/>knew no more, than that His
+Highneſs was landed in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> with a deſign to endeavour the
+delivering the Kingdom, and the Churches of God from Popery, Slavery and
+Arbitrary Power, which as they lookt upon as an Heroick and Glorious
+Undertaking; ſo they alſo accounted it their Duty to embark themſelves in
+the ſame Cauſe; though they knew not what the Iſſue of ſo mighty a
+Work would be; which hath cauſed ſome Perſons of no Mean Figure to ſay,
+
+<q>Theſe People deſerve His Majeſties and the Nations
+Reſpect, Countenance, and Speedy Reſtitution of all their Rights, and to be
+en<g ref="char:EOLhyphen"/>abled by His Majeſties Commiſſions to proſecute the War againſt
+<hi>France</hi> in <hi>America,</hi> which they are capable to do without any
+con<g ref="char:EOLhyphen"/>ſiderable Charge to the Government.</q>
+            </p>
+            <p>And indeed <hi>New England,</hi> hath upon the beſt Accounts
+which can be mentioned, out-done all <hi>America.</hi>
+            </p>
+            <p>For there they have erected an <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> which
+began in the year 1642, wherein things are managed, <hi>pro more Academia<g ref="char:EOLhyphen"/>rum
+in Anglia:</hi> Several Perſons of more than ordinary Learn<g ref="char:EOLhyphen"/>ing; yea, and
+many ſcores of able Miniſters, of the Goſpel, have there had their
+Education.</p>
+            <p>There by the Statutes of the <hi>Colledge,</hi> none is to be
+admitted, before he can write Latin in a pure Style, and tranſlate any
+or<g ref="char:EOLhyphen"/>dinary Greek Author.</p>
+            <p>It is cuſtomary with them, every Morning in the Colledge-Hall,
+to read a Chapter out of the Hebrew Bible, and at Night a Chapter out of the
+Greek Original.</p>
+            <p>The Tutors there inſtruct their Pupils in <hi>Logick, Natural
+and Moral Philoſophy, Metaphyſicks, Geography, Aſtronomy, Arith<g ref="char:EOLhyphen"/>metick,
+Geometry,</hi> &amp;c. and the Learned Men there have a cor<g ref="char:EOLhyphen"/>reſponding
+communication with other Learned Men in divers parts of the World, where the
+Reformed Religion is profeſſed, and by them highly reverenced for their
+Learning and Sobrie<g ref="char:EOLhyphen"/>ty; an Inſtance of which appears by the following Letter,
+written by the Eminent Mr. <hi>Kick,</hi> to the Queen's Majeſty that now is,
+in <hi>February</hi> laſt, by way of Supplication for <hi>New
+Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="13" facs="tcp:101219:7"/>
+                  <head>To Her Royal Highneſs the Princeſs of <hi>Orange,</hi>
+&amp;c.</head>
+                  <opener>
+                     <salute>May it pleaſe your Royal Highneſs,</salute>
+                  </opener>
+                  <p>THE great and good God, who
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th foretold us in the Scriptures,
+that a great and wonderful Delive<g ref="char:EOLhyphen"/>rance ſhall be wrought for his Church in
+the latter days, when <hi>the Mountain of Zion ſhall be exalted in the top of
+the Mountains,</hi> ſeemeth to have deſigned to m<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> uſe of His Highneſs the Prince of <hi>Orange,</hi>
+and Your Royal Highneſs, as Inſtruments in that glorious Deliverance:
+Having al<g ref="char:EOLhyphen"/>ready done ſuch marvellous things in <hi>England</hi> by His
+High<g ref="char:EOLhyphen"/>neſs, in order to that great Work; inſomuch, that the Eyes of all the
+Proteſtant Churches, and People of God, are this day towards His Highneſs,
+and Your Royal Highneſs, as Inſtru<g ref="char:EOLhyphen"/>ments in God's Hand for the further
+carrying on of the De<g ref="char:EOLhyphen"/>liverance of his Church, from the cruel Sufferings and
+Op<g ref="char:EOLhyphen"/>preſſions it is under in moſt parts of World. For which reaſon I
+have taken the boldneſs to become Your. Royal Highneſſes humble
+Remembrancer, on the behalf of the Peo<g ref="char:EOLhyphen"/>ple, and Church of God in <hi>New
+England:</hi> Who about Se<g ref="char:EOLhyphen"/>venty years ſince forſook their own Native
+Country, and went into that howling Wilderneſs, that they might enjoy the
+Liberty of their Conſciences in the Worſhip of God. They are a People
+indeed not much taken notice of, yet a People <hi>by</hi> and <hi>for</hi> whom
+God hath done great things, and by whoſe aſſiſtance the Engliſh
+Colonies and Plantations in <hi>Ameri<g ref="char:EOLhyphen"/>ca,</hi> and the <hi>Weſt-India</hi>
+Iſlands may be much profited; and in caſe of War with <hi>France,</hi> many
+of the French Colonies, in thoſe parts, may be reduced to the Obedience and
+Intereſt of the Engliſh Nation. They have erected a <g ref="char:V">Ʋ</g>niverſity
+a<g ref="char:EOLhyphen"/>mongſt them, that hath produced very many able Divines,<pb n="14" facs="tcp:101219:8"/>who have been very Inſtrumental in the Converſion of many, of the
+Indians, to the Chriſtian Faith, having for the fur<g ref="char:EOLhyphen"/>therance of that good
+Work, Tranſlated the Bible into the Indian Tongue</p>
+                  <p>Their Confeſſion of Faith and Church-Diſcipline, I have
+made bold to preſent to Your Royal Highneſs, that you may ſee they are
+Orthodox. This People had a Patent granted them by King <hi>James,</hi> to
+chooſe their own Governors, and to make their own Laws, (not repugnant to the
+Laws of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) wh<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+Patent was Ratified to them by King <hi>Charles</hi> the Firſt and Second,
+and ſo continued until the late ill Mode of <hi>Quo Warranto</hi>'s came up,
+and that they had one ſent to them about their Patent. For the defending of
+which, they ſtood a Tryal at <hi>Weſtminſter-hall,</hi> and caſt the
+King; but the King cauſed it to be brought to a Review, and by Stratagems
+uſed then in ſuch like Caſes, forced a Judgment againſt the ſaid
+Patent; and thereupon took away all their Priviledges, and Impoſed a
+Governor, and new Laws upon them, which they exceedingly much groan under. And
+although I am ſatisfied, that ſo ſoon as they ſhall come to hear of the
+great and wonderful things that God hath done in <hi>England</hi> by His
+Highneſs, for the Reſtoring of Charters and Pri<g ref="char:EOLhyphen"/>viledges, they will then
+Addreſs themſelves to Your High<g ref="char:EOLhyphen"/>neſſes, ſeeking the Reſtoration of
+theirs; yet in re<g ref="char:EOLhyphen"/>gard they are ſo many thouſand Miles diſtant, it will
+be long e're it come to their knowledge.</p>
+                  <p>Therefore I have adventured on their behalf (having had a
+Correſpondency with the ſaid People many years, and know<g ref="char:EOLhyphen"/>ing how much they
+will ſuffer, if their new Governor be not ſpeedily removed) to give Your
+Royal Highneſs the trouble of theſe Lines, praying to God that He will
+pleaſe to move your Heart to take the Firſt opportunity to help them to the
+Reſtoration of their Ancient Patent, Priviledges and Li<g ref="char:EOLhyphen"/>berties: That they
+and all the Churches of God may have rea<g ref="char:EOLhyphen"/>ſon<pb n="15" facs="tcp:101219:8"/>to own His
+Highneſs, and Your Royal Highneſs, as Hea<g ref="char:EOLhyphen"/>lers of their Breaches, and
+Reſtorers of Paths to dwell in: And to rejoyce in the Goodneſs of God in
+fulfilling that Promiſe, of making <hi>Kings</hi> to be <hi>Nurſing
+Fathers,</hi> and <hi>Queens</hi> to be <hi>Nurſing Mothers</hi> to his
+Church. I humbly beg your Royal Highneſſes Pardon for the trouble of
+theſe Lines, and take leave to ſubſcribe my ſelf,</p>
+                  <closer>
+                     <salute>GREAT MADAM,</salute> 
+                     <signed>Your Royal Highneſſes Moſt Obedient and Moſt
+humble Servant <hi>ABRAHAM KICK.</hi>
+                     </signed> 
+                     <dateline>
+                        <hi>Hague</hi> 
+                        <date>the Firſt of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> 1689. S.
+N.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Nay, I will be bold to ſay, that <hi>New England</hi> hath
+out-done the whole World; for among the Indians, who a while ſince were mere
+Heathens, there are not only many Congregations of them, who are converted to
+the Chriſtian Faith, and the Proteſtant (which is the only True) Religion:
+But no leſs than Four and twenty of thoſe Heathens, are now not only
+Chriſti<g ref="char:EOLhyphen"/>ans, but Preachers of the Goſpel of Jeſus Chriſt. And I
+chal<g ref="char:EOLhyphen"/>lenge the whole World to produce me the like Inſtance, as more fully
+appears by the following Relation, abſtracted out of a Letter written about
+two years ſince from <hi>Boſton,</hi> by the Re<g ref="char:EOLhyphen"/>verend Mr. <hi>Mather,</hi>
+Preſident of the College there, at the re<g ref="char:EOLhyphen"/>queſt, and unto the famous Dr.
+<hi>John Leuſden,</hi> Hebrew Profeſ<g ref="char:EOLhyphen"/>ſor in the Univerſity of
+<hi>
+                  <g ref="char:V">Ʋ</g>tricht,</hi> and ſince tranſlated into di<g ref="char:EOLhyphen"/>vers Languages in <hi>New
+England.</hi> The whole Bible hath been tranſlated into the Indian Language,
+and there alſo printed: It's above forty five years ſince, that truly pious
+and godly Man, Mr. <hi>John Elliot,</hi> Miniſter of the Church at
+<hi>Rocksborough</hi> (a Mile from <hi>Boſton</hi>) being warm'd with a
+Compaſſionate and Holy Zeal for the Converſion of the <hi>Americans,</hi>
+ſet himſelf to learn the<pb n="16" facs="tcp:101219:9"/>Indian Tongue, that he might the
+more eaſily, and ſucceſsfully open to them the Myſteries of the
+Goſpel; on account of which he hath been (not undeſervedly) called <hi>the
+Apostle of the Ame<g ref="char:EOLhyphen"/>rican Indians.</hi> This Reverend Perſon was he that, with
+indefa<g ref="char:EOLhyphen"/>tigable Labour and Study, tranſlated the whole Bible into the Indian
+Tongue, and alſo ſeveral Engliſh Treatiſes of Practi<g ref="char:EOLhyphen"/>cal Divinity and
+Catechiſms.</p>
+            <p>About Twenty eight years ſince he gathered a Church of Converted
+Indians, in a Town called <hi>Natick.</hi> Theſe poor In<g ref="char:EOLhyphen"/>dians were brought
+to ſuch a ſenſe of God and Religion, that they confeſſed their Sins
+with Tears, and profeſſed their Faith in Chriſt; and afterwards they and
+their Children were Bap<g ref="char:EOLhyphen"/>tized, and they were Solemnly joyned together in a
+Church-Covenant: And Mr. <hi>Elliot</hi> was the firſt that Adminiſtred the
+Lords Supper to them. The Miniſter of that Church is now an Indian named
+<hi>Daniel.</hi>
+            </p>
+            <p>Beſides this Church at <hi>Natick,</hi> among our Inhabitants in
+the Maſſachuſets Colony, there are Four <hi>Indian</hi> Aſſemblies;
+where the Name of the True God, and Jeſus Chriſt, is ſolemnly called
+upon. And theſe Four Aſſemblies have American Preach<g ref="char:EOLhyphen"/>ers: Mr.
+<hi>Elliot</hi> formerly Preached to them once in Fourteen Days; but now being
+Weakned with his Labours, and in the Eighty Sixth Year of his Age, doth not
+Preach to them more than once in Two Months.</p>
+            <p>About Fifty Miles from <hi>Boſton</hi> is another Church
+conſiſting only of Converted Indians; in an Indian Town, called
+<hi>Mar<g ref="char:EOLhyphen"/>ſhippang,</hi> the firſt Miniſter of which was an Engliſhman,
+who being skilful in the <hi>American Language,</hi> Preached the Goſpel to
+them in their own Tongue; but this Miniſter is lately Dead, and they now have
+an Indian Preacher.</p>
+            <p>There are beſides that, Five Aſſemblies of Indians
+profeſſing the Name of Chriſt, not far diſtant from
+<hi>Marſhippang,</hi> which have Indian Preachers, and alſo are Preached
+unto in their own Language once every weak by Mr. <hi>John Cotton,</hi> Son of
+the Famous Mr. <hi>John Cotton,</hi> ſomtimes Miniſter of the Church at
+<hi>Boſton.</hi> In <hi>Plymouth</hi> Colony of the Inhabitants of
+<hi>Saconet</hi> there is a great Congregation of thoſe who for
+diſtinctions ſake, are called <hi>Praying Indians;</hi> Becauſe they Pray
+to God in Chriſt.</p>
+            <p>
+               <pb n="17" facs="tcp:101219:9"/>Not far from a Promontory called <hi>Cape
+Cod,</hi> are Six Aſſem<g ref="char:EOLhyphen"/>blies of Heathens who are to be reckoned as
+<hi>Catechumeni;</hi> amongſt whom are Six Indian Preachers. Mr. <hi>Samuel
+Treat</hi> Miniſter of a Church at <hi>Eaſt Ham,</hi> Preacheth to theſe
+Congre<g ref="char:EOLhyphen"/>gations in their own Language.</p>
+            <p>There are amongſt the Iſlanders of <hi>Mantucket,</hi> a
+Church, with a Miniſter who was lately a Heathen, and ſeveral meetings of
+<hi>Catechumeni,</hi> who are inſtructed by the Converted Indians.</p>
+            <p>In the Iſland of <hi>Martha,</hi> which is about Twenty Two
+Miles long, are two American Churches planted, which are more Famous than the
+reſt, for that over one of them preſides an Ancient Indian Miniſter,
+called <hi>Hiacooms: John Hiacooms,</hi> Son of the ſaid Indian Miniſter,
+alſo Preaches the Goſpel to his Contrymen in
+<gap reason="blank" resp="#OXF" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Church: in that place <hi>John
+Tockinoſh,</hi> a Converted Indian Teaches.</p>
+            <p>In theſe Churches <hi>Ruling Elders</hi> of the Indians are
+joyned to the Miniſters: The Miniſters were choſen by the People, and
+when they had Faſted and Prayed, Mr. <hi>Elliott</hi> and Mr. <hi>Cotton</hi>
+laid their hands on them, ſo that they were ſolemnly Ordained.</p>
+            <p>All the Congregations of the Converted Indians, (the
+<hi>Cate<g ref="char:EOLhyphen"/>chumeni</hi> and thoſe that are in Church-Order) every Lords Day
+meet together, the Miniſter always beginning with Prayer, and without a Form,
+becauſe from the heart; when the Ruler of the Aſſembly hath ended his
+Prayer, the whole Cogregation of Indians, praiſe God with Singing; in which
+many of them are excelling. After the Pſalm, he that Preaches reads a place
+of Scripture, and Expounds it, gathers Do<g ref="char:EOLhyphen"/>ctrins from it, proves them by
+Scripture and reaſons, and in<g ref="char:EOLhyphen"/>fers uſe from them after the manner of the
+Engliſh, of whom they have been taught: Then another Prayer to God in the
+Name of Chriſt concludes the whole Service, in which man<g ref="char:EOLhyphen"/>ner they meet twice
+every Lord's Day; they obſerve no Holy Days, but the Lord's Day, except upon
+ſome extraordinary occa<g ref="char:EOLhyphen"/>ſion; and then they ſolemnly ſet apart whole
+Days, either in gi<g ref="char:EOLhyphen"/>ving thanks, or faſting and praying with great fervor of
+Mind.</p>
+            <p>Before the Engliſh came into theſe Parts, theſe Barbarous
+Nations were altogether ignorant of the true God; hence it is, that in their
+Prayers and Sermons, they uſe Engliſh Words and Terms.</p>
+            <p>
+               <pb n="18" facs="tcp:101219:10"/>He that calls upon the moſt Holy Name of
+God, ſays, <hi>Jehovah,</hi> or God, or Lord; and alſo they have Learned,
+and borrowed many other Theological Phraſes from the Engliſh.</p>
+            <p>There are ſix Churches of Baptized Indians in <hi>New
+England,</hi> and eighteen Aſſemblies of <hi>Catechumeni,</hi>
+profeſſing the Name of Chriſt.</p>
+            <p>Of the Indians there are four and twenty who are Preach<g ref="char:EOLhyphen"/>ers of the
+Word of God, and there are alſo four Engliſh Mi<g ref="char:EOLhyphen"/>niſters who Preach the
+Goſpel in the Indian Tongue, and there are many of the Indians Children, who
+have learned by heart the Catechiſm; either of that ſamous Divine Mr.
+<hi>Will. Perkins,</hi> or that put forth by the Aſſembly of Divines at
+<hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and can in their own Mother-Tongue anſwer to all
+the queſtions in it.</p>
+            <p>Thus Sir I have endeavoured to gratifie your requeſt with as
+much Brevity as the Subject will admit, and exceeding the Bounds of a Letter,
+am forced to be ſo prolix, and the rather for that moſt of what I have
+written is upon my own knowledge, Truth (and the reſt undeniable fact) though
+not the twentieth Part of the Truths might be ſaid of the Almighty's moſt
+won<g ref="char:EOLhyphen"/>derful bleſſing and proſpering <hi>New England,</hi> and his Goſpel
+among the Heathen there, which to me looks like the Begin<g ref="char:EOLhyphen"/>nings of the
+fulfilling thoſe many Prophecies in <hi>Holy Writ</hi> con<g ref="char:EOLhyphen"/>cerning them.</p>
+            <p>And after all this, I cannot but admire there ſhould be (as you
+ſay there is) any Man in <hi>England,</hi> who owns but even the bare name of
+a Proteſtant, at ſuch a time as this, when God ſeems to have begun the
+Reformation of the whole World, and eminently to appear for the True Reformed
+Religion, ſhould be an Enemy unto ſuch a People as are in <hi>New
+England,</hi> and their Diſcipline, as to the Religious Worſhip: When as to
+all know<g ref="char:EOLhyphen"/>ing and unprejudiced perſons, its conſonant to the practice of the
+Primitive Church, and of the Reformed Churches through<g ref="char:EOLhyphen"/>out the World: Which one
+would think ſhould not find an Enemy among any ſort of Chriſtians, but
+thoſe called Papiſts, or elſe among ſuch, as <hi>Papiſt like</hi> can
+give up their Religion, Rights, Liberties, and Properties, nay, their very
+Senſes to the conduct of their Fellow Creatures.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:101219:10"/>
+            <head>Books lately Printed for <hi>R. Baldwin.</hi>
+            </head>
+            <list>
+               <item>THE Hiſtory of the moſt Illuſtrious <hi>VVilliam,</hi>
+Prince of <hi>Orangc:</hi> deduc'd from the firſt Founders of the Ancient
+Houſe of <hi>Naſſau:</hi> Together with the moſt Conſiderable Actions
+of this Preſent Prince.</item>
+               <item>Fourteen Papers, viz. 1. <hi>A Letter from a Gentleman
+in</hi> Ireland, <hi>to his Fri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd
+in</hi> London, <hi>upon occaſion of a Pamplet, Entituled,</hi> A Vindication
+of the preſent Government of <hi>reland,</hi> under his Excellency
+<hi>Richard</hi> Earl of <hi>Tyrconnel.</hi> 2. <hi>A Letter from a Freeholder,
+to the reſt of the Freeholders of</hi> England, <hi>and all Others, who have
+Votes in the Choice of Parliament M<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 3. <hi>An Enquiry into the Reaſons for Abrogating the Test
+impoſed on all Members of Parliament. Offered by</hi> S. Ox. 4.
+<hi>Reflections on a late Pamphlet, Entituled,</hi> Parlimentum Pacificum,
+<hi>Licenſed by the Earl of</hi> Sunderland, <hi>and printed at</hi> London
+<hi>in</hi> March 1688. 5. <hi>A L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tter to a Diſſenter, upon occaſion of his Majeſties Gracious
+Declaration of Indulgence.</hi> 6. <hi>The Anatomy of an Equivalent.</hi> 7.
+<hi>A Letter from a Clergy-man in the City, to his Friend in the Country,
+containing his Reaſons for not reading the Declaration.</hi> 8. <hi>An
+An<g ref="char:EOLhyphen"/>ſwer to the City Miniſter's Letter, from his Country Friend.</hi> 9.
+<hi>A Letter to a Diſ<g ref="char:EOLhyphen"/>ſenter from his Friend at the</hi> Hague,
+<hi>concerning the Penal Laws, and the Test; ſhewing, that the Popular Plea
+for Liberty of Conſcience, is not concerned in that Queſtion.</hi> 10.
+<hi>A plain Account of the Perſecution laid to the Charge of the Church
+of</hi> England. 11. <hi>Abby and other Church-lands, not Aſſured to ſuch
+Poſſeſſors as are</hi> Roman <hi>Catholicks; Dedicated to the Nobility
+and Gentry of that Religion.</hi> 12. <hi>The King's Power in
+Eccleſiaſtical matters truly Stated.</hi> 13. <hi>A Letter of
+ſe<g ref="char:EOLhyphen"/>veral</hi> French <hi>Miniſters fled into</hi> Germany <hi>upon the
+account of the Perſecution in</hi> France, <hi>to ſuch of their Brethren
+in</hi> England <hi>as approved the King's Declaration touching Liberty of
+Conſcience. Tranſlated from the Original in French.</hi> 14. <hi>Po<g ref="char:EOLhyphen"/>piſh
+Treatiſe not to be Fely'd on: In a
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tter from a Gentleman at</hi> York,
+<hi>to his Friend in the Prince of</hi> Orange<hi>'s Camp: Addreſſed to all
+Members of the next Par<g ref="char:EOLhyphen"/>liament.</hi>
+               </item>
+               <item>The VVay to Peace amongſt all Proteſtants: Being a Letter
+of Recon<g ref="char:EOLhyphen"/>ciliation ſent by Biſhop <hi>Ridley</hi> to Biſhop
+<hi>Hooper,</hi> with ſome Obſervations upon it. By <hi>Samuel
+Johnſon.</hi>
+               </item>
+               <item>Purgatory prov<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d
+by Miracles: Collected out of <hi>Roman</hi> Catho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick Au<g ref="char:EOLhyphen"/>thors. VVith ſome remarkable Hiſtories
+relating to Britiſh, Engliſh and Iriſh Saints. VVith a Preface concerning
+Miracles By <hi>S. Johnſon.</hi>
+               </item>
+               <item>An Hiſtorical Relation of ſeveral Great and Learned
+Fomaniſts who did imbrace the Proteſtant Beligion, with their Reaſons for
+their Change de<g ref="char:EOLhyphen"/>liver'd in their own words. Collected chiefly from moſt
+eminent Hiſtorians of the <hi>Roman</hi> Perſwaſion. To which is added, a
+Catalogue of ſundry great Perſons of the <hi>Roman</hi> Catholick Religion,
+who have all along oppos'd the Te<g ref="char:EOLhyphen"/>nets of the Church of <hi>Rome.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:101219:11"/>The Character of a Trimmer: His Opinion of, 1.
+The Laws and Go<g ref="char:EOLhyphen"/>vernment. 2. Proteſtant Religion. 3. The Papiſts. 4.
+Foreign Affairs. By the Honourable Sir <hi>W. Coventry.</hi>
+               </item>
+               <item>A Seaſonable Diſcourſe, ſhewing the
+Unreaſonableneſs and Miſchiefs of Impoſitions in Matters of Religion,
+recommended to ſerious Conſideration. By Mr. <hi>Andr. Marvel,</hi> a late
+Member of the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons.</item>
+               <item>The Revolter. A Trage-Comedy acted between the <hi>Hind</hi>
+and <hi>Patter,</hi> and <hi>Religio Laici,</hi> &amp;c.</item>
+               <item>The Abſolute Neceſſity of Standing by the Preſent
+Government: or a View of what both Church-men and Diſſenters muſt Expect,
+if by their Unhappy Diviſions Popery and Tyranny ſhould return
+again.</item>
+               <item>An Impartial Relation of the Illegal Proceedings againſt
+St. <hi>Mary Magdalen</hi> Colledge in <hi>Oxon,</hi> in the Year of our Lord
+1687, containing only Matters of Fact as they occurred. Collected by a Fellow
+of the ſaid Colledge.</item>
+            </list>
+            <pb facs="tcp:101219:11"/>
+         </div>
+      </back>
+   </text>
+</TEI>
